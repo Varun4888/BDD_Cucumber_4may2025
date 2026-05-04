@@ -14,8 +14,7 @@ Examples:
 |Admin     |admin123  |OrangeHRM      | 
 |Admin     |admin123  |OrangeHRM      | 
 |Admin     |admin123  |OrangeHRM      | 
-|Admin     |admin123  |OrangeHRM      |  
-|Admin     |admin123  |OrangeHRM2     | 
+
   
                  
         
